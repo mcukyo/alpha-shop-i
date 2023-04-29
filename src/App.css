@@ -1,4 +1,4 @@
-.App {
+/* .App {
   text-align: center;
 }
 
@@ -35,4 +35,24 @@
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.Alpha-logo g{
+fill: #36c620;
+}
+.Alpha-logo path {
+  stroke: #4837e0;
+  ;
+  stroke-width: 1px;
+  fill: #cd9932;
+  stroke-dasharray: 35px 15px;
+  animation: orbit 1s infinite linear;
+} */
+
+
+
+.navbar-menu,
+.nav-list {
+display: flex;
 }
